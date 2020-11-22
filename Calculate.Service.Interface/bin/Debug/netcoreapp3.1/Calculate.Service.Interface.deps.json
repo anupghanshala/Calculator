@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculate.Service.Interface/1.0.0": {
+        "dependencies": {
+          "Calculate.Common": "1.0.0"
+        },
+        "runtime": {
+          "Calculate.Service.Interface.dll": {}
+        }
+      },
+      "Calculate.Common/1.0.0": {
+        "runtime": {
+          "Calculate.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculate.Service.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculate.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

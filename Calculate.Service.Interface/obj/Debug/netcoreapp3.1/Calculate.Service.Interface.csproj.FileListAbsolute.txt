@@ -1,0 +1,11 @@
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\bin\Debug\netcoreapp3.1\Calculate.Service.Interface.deps.json
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\bin\Debug\netcoreapp3.1\Calculate.Service.Interface.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\bin\Debug\netcoreapp3.1\Calculate.Service.Interface.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\bin\Debug\netcoreapp3.1\Calculate.Common.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\bin\Debug\netcoreapp3.1\Calculate.Common.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\obj\Debug\netcoreapp3.1\Calculate.Service.Interface.csprojAssemblyReference.cache
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\obj\Debug\netcoreapp3.1\Calculate.Service.Interface.AssemblyInfoInputs.cache
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\obj\Debug\netcoreapp3.1\Calculate.Service.Interface.AssemblyInfo.cs
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\obj\Debug\netcoreapp3.1\Calculate.Service.Interface.csproj.CopyComplete
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\obj\Debug\netcoreapp3.1\Calculate.Service.Interface.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service.Interface\obj\Debug\netcoreapp3.1\Calculate.Service.Interface.pdb

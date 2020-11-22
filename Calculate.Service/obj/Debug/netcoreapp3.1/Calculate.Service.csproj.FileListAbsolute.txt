@@ -1,0 +1,15 @@
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\obj\Debug\netcoreapp3.1\Calculate.Service.csprojAssemblyReference.cache
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\obj\Debug\netcoreapp3.1\Calculate.Service.AssemblyInfoInputs.cache
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\obj\Debug\netcoreapp3.1\Calculate.Service.AssemblyInfo.cs
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Service.deps.json
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Service.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Service.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Common.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Service.Interface.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Service.Interface.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Common.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\obj\Debug\netcoreapp3.1\Calculate.Service.csproj.CopyComplete
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\obj\Debug\netcoreapp3.1\Calculate.Service.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\obj\Debug\netcoreapp3.1\Calculate.Service.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Repository.Interface.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Service\bin\Debug\netcoreapp3.1\Calculate.Repository.Interface.pdb

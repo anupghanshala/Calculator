@@ -1,0 +1,13 @@
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\bin\Debug\netcoreapp3.1\Calculate.Common.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\bin\Debug\netcoreapp3.1\Calculate.Repository.Interface.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\bin\Debug\netcoreapp3.1\Calculate.Common.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\obj\Debug\netcoreapp3.1\Calculate.Repository.AssemblyInfoInputs.cache
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\obj\Debug\netcoreapp3.1\Calculate.Repository.AssemblyInfo.cs
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\obj\Debug\netcoreapp3.1\Calculate.Repository.csprojAssemblyReference.cache
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\bin\Debug\netcoreapp3.1\Calculate.Repository.deps.json
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\bin\Debug\netcoreapp3.1\Calculate.Repository.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\bin\Debug\netcoreapp3.1\Calculate.Repository.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\bin\Debug\netcoreapp3.1\Calculate.Repository.Interface.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\obj\Debug\netcoreapp3.1\Calculate.Repository.csproj.CopyComplete
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\obj\Debug\netcoreapp3.1\Calculate.Repository.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Repository\obj\Debug\netcoreapp3.1\Calculate.Repository.pdb

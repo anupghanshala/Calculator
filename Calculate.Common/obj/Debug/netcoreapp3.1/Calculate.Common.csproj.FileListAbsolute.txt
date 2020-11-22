@@ -1,0 +1,8 @@
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\bin\Debug\netcoreapp3.1\Calculate.Common.deps.json
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\bin\Debug\netcoreapp3.1\Calculate.Common.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\bin\Debug\netcoreapp3.1\Calculate.Common.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\obj\Debug\netcoreapp3.1\Calculate.Common.AssemblyInfoInputs.cache
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\obj\Debug\netcoreapp3.1\Calculate.Common.AssemblyInfo.cs
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\obj\Debug\netcoreapp3.1\Calculate.Common.dll
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\obj\Debug\netcoreapp3.1\Calculate.Common.pdb
+C:\Users\kumara\Documents\Anup\Permanent_Role\demo\CalculatorApi\Calculate.Common\obj\Debug\netcoreapp3.1\Calculate.Common.csprojAssemblyReference.cache

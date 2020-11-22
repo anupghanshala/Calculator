@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculate.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Calculate.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculate.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculate.Common/1.0.0": {
+      "type": "project",
+      "path": "../Calculate.Common/Calculate.Common.csproj",
+      "msbuildProject": "../Calculate.Common/Calculate.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Calculate.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kumara\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kumara\\Documents\\Anup\\Permanent_Role\\demo\\CalculatorApi\\Calculate.Service.Interface\\Calculate.Service.Interface.csproj",
+      "projectName": "Calculate.Service.Interface",
+      "projectPath": "C:\\Users\\kumara\\Documents\\Anup\\Permanent_Role\\demo\\CalculatorApi\\Calculate.Service.Interface\\Calculate.Service.Interface.csproj",
+      "packagesPath": "C:\\Users\\kumara\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kumara\\Documents\\Anup\\Permanent_Role\\demo\\CalculatorApi\\Calculate.Service.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kumara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\kumara\\Documents\\Anup\\Permanent_Role\\demo\\CalculatorApi\\Calculate.Common\\Calculate.Common.csproj": {
+              "projectPath": "C:\\Users\\kumara\\Documents\\Anup\\Permanent_Role\\demo\\CalculatorApi\\Calculate.Common\\Calculate.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
